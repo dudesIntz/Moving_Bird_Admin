@@ -1,0 +1,33 @@
+{
+  "files": {
+    "static/js/0.1bc04ea1.chunk.js": "http://localhost:8080/create-react-app-servlet/static/js/0.1bc04ea1.chunk.js",
+    "static/js/0.1bc04ea1.chunk.js.map": "http://localhost:8080/create-react-app-servlet/static/js/0.1bc04ea1.chunk.js.map",
+    "main.css": "http://localhost:8080/create-react-app-servlet/static/css/main.8bc3f9f9.chunk.css",
+    "main.js": "http://localhost:8080/create-react-app-servlet/static/js/main.094b4ff7.chunk.js",
+    "main.js.map": "http://localhost:8080/create-react-app-servlet/static/js/main.094b4ff7.chunk.js.map",
+    "runtime-main.js": "http://localhost:8080/create-react-app-servlet/static/js/runtime-main.f2929f54.js",
+    "runtime-main.js.map": "http://localhost:8080/create-react-app-servlet/static/js/runtime-main.f2929f54.js.map",
+    "static/js/3.11761143.chunk.js": "http://localhost:8080/create-react-app-servlet/static/js/3.11761143.chunk.js",
+    "static/js/3.11761143.chunk.js.map": "http://localhost:8080/create-react-app-servlet/static/js/3.11761143.chunk.js.map",
+    "static/js/4.b27e4827.chunk.js": "http://localhost:8080/create-react-app-servlet/static/js/4.b27e4827.chunk.js",
+    "static/js/4.b27e4827.chunk.js.map": "http://localhost:8080/create-react-app-servlet/static/js/4.b27e4827.chunk.js.map",
+    "static/js/5.b0cea980.chunk.js": "http://localhost:8080/create-react-app-servlet/static/js/5.b0cea980.chunk.js",
+    "static/js/5.b0cea980.chunk.js.map": "http://localhost:8080/create-react-app-servlet/static/js/5.b0cea980.chunk.js.map",
+    "index.html": "http://localhost:8080/create-react-app-servlet/index.html",
+    "precache-manifest.2b2c9a9838465effc27717a956419774.js": "http://localhost:8080/create-react-app-servlet/precache-manifest.2b2c9a9838465effc27717a956419774.js",
+    "service-worker.js": "http://localhost:8080/create-react-app-servlet/service-worker.js",
+    "static/css/main.8bc3f9f9.chunk.css.map": "http://localhost:8080/create-react-app-servlet/static/css/main.8bc3f9f9.chunk.css.map",
+    "static/js/0.1bc04ea1.chunk.js.LICENSE.txt": "http://localhost:8080/create-react-app-servlet/static/js/0.1bc04ea1.chunk.js.LICENSE.txt",
+    "static/js/3.11761143.chunk.js.LICENSE.txt": "http://localhost:8080/create-react-app-servlet/static/js/3.11761143.chunk.js.LICENSE.txt",
+    "static/js/4.b27e4827.chunk.js.LICENSE.txt": "http://localhost:8080/create-react-app-servlet/static/js/4.b27e4827.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "http://localhost:8080/create-react-app-servlet/static/media/Roboto-Regular.3e1af3ef.ttf",
+    "static/media/bg_low.jpg": "http://localhost:8080/create-react-app-servlet/static/media/bg_low.6ded5cc5.jpg",
+    "static/media/bg_med.png": "http://localhost:8080/create-react-app-servlet/static/media/bg_med.e136c6a1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2929f54.js",
+    "static/js/3.11761143.chunk.js",
+    "static/css/main.8bc3f9f9.chunk.css",
+    "static/js/main.094b4ff7.chunk.js"
+  ]
+}
