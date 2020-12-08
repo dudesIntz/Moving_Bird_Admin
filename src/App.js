@@ -6,6 +6,7 @@ import routes from "./routes";
 import { PrivateRoute } from "./Routing/private-route";
 import { history } from "./store/store";
 import { FormattedMessage } from "react-intl";
+import { webService } from "./_services/webServices";
 
 const loading = () => (
   <div className="animated fadeIn pt-3 text-center">Loading...</div>
@@ -20,12 +21,16 @@ class App extends Component {
     bgImg: require("./assets/bg_low.jpg"),
   };
 
-  componentDidMount() {
+ async componentDidMount() {
     const img = new Image();
     img.src = require("./assets/bg_med.png");
     img.onload = () => {
       this.setState({ bgImg: img.src });
     };
+
+    let response = await webService.invokeAPI("https://jsonplaceholder.typicode.com/todos/1")
+    console.log(response)
+
   }
 
   render() {
